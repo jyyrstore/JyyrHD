@@ -3,7 +3,7 @@
 ======================= */
 @font-face {
   font-family: "Neo";
-  src: url("assets/font/Neo.ttf") format("truetype");
+  src: url('Neo.ttf') format("truetype");
 }
 
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap');
